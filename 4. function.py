@@ -43,3 +43,6 @@ phrase = "Hello Mr.White"
         # 0123456789    位置
 print(phrase.replace("H","h"))  #將某個文字替換成別的文字 (將大寫的H替換成小寫的h)
 print(phrase .replace("l","L"))
+
+
+print("12313213")
