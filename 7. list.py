@@ -44,6 +44,7 @@ print(scores)
 
 # 4.刪除列表中的值  .remove()
 scores.remove(70)  #刪除列表中70的值
+
 print(scores)
 
 
@@ -70,8 +71,8 @@ scores.reverse()  #將列表做反轉
 print(scores)
 
 # 9.將列表做反轉  .reverse()
-scores = [90,70,50,60,30] 
-scores.reverse()  #將列表做反轉
+scores = [90,100,50,60,30] 
+scores.sort(reverse=True) #將列表做反轉
 print(scores)
 
 # 10.找出列表中的數字在第幾位 .index()
