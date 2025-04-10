@@ -21,3 +21,5 @@ dic3 = {"蘋果":"apple" , "香蕉":"banana" , "貓":"cat" , "狗":"dog"}
 dic3["鳥"] = "Bird"     # 添加字典裡的data
 del dic3["蘋果"]    #刪除字典裡的data
 print(dic3)
+
+print(123)

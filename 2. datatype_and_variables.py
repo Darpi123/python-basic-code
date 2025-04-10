@@ -27,6 +27,10 @@ print(name+"今年"+age+"歲")
 print(name+"身高187公分" )
 print("小白討厭自己87歲")
 
+
+ages = 90
+# print("小白今年" + ages ) # 這樣是錯的，因為數字和字串不可以相加
+print("小白今年" , ages )
 # name = "小綠"
 # print(name)
 # name = "小蘭"
