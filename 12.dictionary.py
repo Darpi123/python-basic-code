@@ -23,3 +23,4 @@ del dic3["蘋果"]    #刪除字典裡的data
 print(dic3)
 
 print(123)
+print(456)
