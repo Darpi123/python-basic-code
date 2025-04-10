@@ -19,8 +19,19 @@ print(dic["蘋123果"])
 dic3 = {"蘋果":"apple" , "香蕉":"banana" , "貓":"cat" , "狗":"dog"} 
 
 dic3["鳥"] = "Bird"     # 添加字典裡的data
-del dic3["蘋果"]    #刪除字典裡的data
+del dic3["蘋果"]        # 刪除字典裡的data
 print(dic3)
 
-print(123)
-print(456)
+
+print(dic3)
+
+
+
+
+
+# 嵌入式字典
+
+test = { "apple":{"taste":"good","look":"red"},
+        "banana":{"teste":"very good" , "look":"yellow"}
+}
+print(test)
