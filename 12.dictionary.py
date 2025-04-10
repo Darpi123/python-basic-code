@@ -8,6 +8,14 @@ print(dic["1"]) #用中括號打key，就可以查value
 
 
 
-
 dic ={"蘋123果":"apple" , "香蕉":"banana" , "貓咪":"cat" }
 print(dic["蘋123果"])
+
+
+
+#　添加和刪除字典～～
+dic3 = {"蘋果":"apple" , "香蕉":"banana" , "貓":"cat" , "狗":"dog"} 
+
+dic3["鳥"] = "Bird"     # 添加字典裡的data
+del dic3["蘋果"]    #刪除字典裡的data
+print(dic3)
