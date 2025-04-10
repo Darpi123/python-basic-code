@@ -8,6 +8,8 @@ print(dic["1"]) #用中括號打key，就可以查value
 
 
 
+
+
 dic ={"蘋123果":"apple" , "香蕉":"banana" , "貓咪":"cat" }
 print(dic["蘋123果"])
 
